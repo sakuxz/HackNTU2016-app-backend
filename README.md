@@ -1,4 +1,4 @@
-# HackNTU2016-taxi-backend
+# HackNTU2016-app-backend
 
 ### How to run this app
 
